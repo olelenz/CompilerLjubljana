@@ -1,0 +1,13 @@
+fun putChar(c: char): void;
+fun getChar(): char;
+var c: char;
+fun nothing():void;
+fun main():int={
+    c = 'e';
+    while c != 'q' do {
+        c = getChar();
+        putChar(c)
+    };
+    putChar((10:char));
+    1
+};
