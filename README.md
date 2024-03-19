@@ -81,7 +81,7 @@ MMIX (included in /lib for Unix)
 
 Ole Lenz - ole.lenz@gmx.net and ole.lenz@campus.tu-berlin.de
 
-Project Link: [https://github.com/olelenz/connect_four](https://github.com/olelenz/CompilerLjubljana)
+Project Link: [https://github.com/olelenz/CompilerLjubljana](https://github.com/olelenz/CompilerLjubljana)
 
 
 <!-- ACKNOWLEDGMENTS -->
